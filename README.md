@@ -198,9 +198,4 @@ All key settings live near the top of the notebook:
 
 If you build upon this pipeline in academic or industrial work, please include an appropriate acknowledgement to COMET QE and this evaluation workflow.
 
----
-
-## License
-
-Choose and add a license (e.g., MIT) appropriate for your project.
 
