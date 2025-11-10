@@ -1,5 +1,3 @@
-# AI-Translation
-
 # AI Translation Evaluation Pipeline
 
 This repository contains a clean, well-documented Jupyter notebook for evaluating machine translation outputs produced by multiple **AI models**. The pipeline parses `.txt` files into **Source** and **Output**, prepares per-model hypothesis files, computes **reference-free Quality Estimation (QE)** scores with COMET, and performs **paired t-tests** to compare hypotheses.
